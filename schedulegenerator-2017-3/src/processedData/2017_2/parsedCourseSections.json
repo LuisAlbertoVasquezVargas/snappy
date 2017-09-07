@@ -1,0 +1,3700 @@
+[
+	{
+		"id": 0,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["ACOSTA DE LA CRUZ, PEDRO RAÚL"],
+		"mask": [0, 3, 12],
+		"name": "U",
+		"code": "CB-101"
+	},
+	{
+		"id": 1,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["VASQUEZ DOMINGUEZ, RIQUELMER"],
+		"mask": [0, 12, 12],
+		"name": "V",
+		"code": "CB-101"
+	},
+	{
+		"id": 2,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["KALA BEJAR, LOURDES"],
+		"mask": [0, 12, 12],
+		"name": "W",
+		"code": "CB-101"
+	},
+	{
+		"id": 3,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["ACOSTA DE LA CRUZ, PEDRO RAÚL", "HUAMAN SANCHEZ, ALEJANDRO"],
+		"mask": [3, 12, 12],
+		"name": "X",
+		"code": "CB-101"
+	},
+	{
+		"id": 4,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["KALA BEJAR, LOURDES"],
+		"mask": [196608, 196608, 0],
+		"name": "U",
+		"code": "CB-111"
+	},
+	{
+		"id": 5,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["HUAMAN SANCHEZ, ALEJANDRO"],
+		"mask": [196608, 196608, 0],
+		"name": "V",
+		"code": "CB-111"
+	},
+	{
+		"id": 6,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["CHUNG CHING, RICARDO ALEJANDRO"],
+		"mask": [12, 196608, 0],
+		"name": "W",
+		"code": "CB-111"
+	},
+	{
+		"id": 7,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 }
+		],
+		"teachers": ["ANGULO PEREZ, JOSUE", "ANGULO PEREZ, JOSUÉ"],
+		"mask": [3, 12, 0],
+		"name": "U",
+		"code": "CB-112"
+	},
+	{
+		"id": 8,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 }
+		],
+		"teachers": ["BENITES YARLEQUÉ, JOSÉ VALERIO"],
+		"mask": [3, 3, 0],
+		"name": "V",
+		"code": "CB-112"
+	},
+	{
+		"id": 9,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["TOCTO INGA, PAUL MILLER"],
+		"mask": [50331648, 12288, 0],
+		"name": "W",
+		"code": "CB-112"
+	},
+	{
+		"id": 10,
+		"events": [
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 }
+		],
+		"teachers": ["ALVARADO RODRIGUEZ, LUIS", "KALA BEJAR, LOURDES"],
+		"mask": [49152, 196656, 3],
+		"name": "U",
+		"code": "CB-121"
+	},
+	{
+		"id": 11,
+		"events": [
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 }
+		],
+		"teachers": ["VASQUEZ DOMINGUEZ, RIQUELMER"],
+		"mask": [768, 48, 3],
+		"name": "V",
+		"code": "CB-121"
+	},
+	{
+		"id": 12,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 }
+		],
+		"teachers": ["HUAMAN SANCHEZ, ALEJANDRO"],
+		"mask": [49152, 51, 0],
+		"name": "W",
+		"code": "CB-121"
+	},
+	{
+		"id": 13,
+		"events": [
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 }
+		],
+		"teachers": ["BERMEO CARRASCO, OSMAR"],
+		"mask": [3, 48, 3],
+		"name": "X",
+		"code": "CB-121"
+	},
+	{
+		"id": 14,
+		"events": [
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 }
+		],
+		"teachers": ["HUALPA GUTIERREZ WALTER ANTONIO"],
+		"mask": [0, 49152, 192],
+		"name": "U",
+		"code": "CB-122"
+	},
+	{
+		"id": 15,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 }
+		],
+		"teachers": ["SOTOMAYOR ARAMBURU,FERNANDO"],
+		"mask": [0, 49152, 49152],
+		"name": "V",
+		"code": "CB-122"
+	},
+	{
+		"id": 16,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["ARAMBULO OSTOS, CARLOS"],
+		"mask": [196608, 12, 12],
+		"name": "U",
+		"code": "CB-131"
+	},
+	{
+		"id": 17,
+		"events": [
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": ["ECHEANDIA CESPEDES, JAVIER"],
+		"mask": [0, 3146496, 192],
+		"name": "V",
+		"code": "CB-131"
+	},
+	{
+		"id": 18,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": ["CRUZ YUPANQUI GLADYS"],
+		"mask": [12582912, 768, 192],
+		"name": "W",
+		"code": "CB-131"
+	},
+	{
+		"id": 19,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["BERMEO CARRASCO, OSMAR"],
+		"mask": [12, 0, 196656],
+		"name": "U",
+		"code": "CB-132"
+	},
+	{
+		"id": 20,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["ALVARADO RODRIGUEZ, LUIS"],
+		"mask": [196608, 49152, 48],
+		"name": "V",
+		"code": "CB-132"
+	},
+	{
+		"id": 21,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["ECHEANDIA CESPEDES, JAVIER"],
+		"mask": [3145728, 192, 48],
+		"name": "W",
+		"code": "CB-132"
+	},
+	{
+		"id": 22,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["ARAMBULO OSTOS, CARLOS"],
+		"mask": [49152, 3, 48],
+		"name": "U",
+		"code": "CB-142"
+	},
+	{
+		"id": 23,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["CHUNG CHING, RICARDO ALEJANDRO"],
+		"mask": [3, 192, 48],
+		"name": "V",
+		"code": "CB-142"
+	},
+	{
+		"id": 24,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": ["ANGULO PEREZ JOSUE"],
+		"mask": [12, 3, 48],
+		"name": "W",
+		"code": "CB-142"
+	},
+	{
+		"id": 25,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["ANGULO PEREZ JOSUE"],
+		"mask": [192, 192, 0],
+		"name": "U",
+		"code": "CB-143"
+	},
+	{
+		"id": 26,
+		"events": [
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["TOCTO INGA, PAUL MILLER"],
+		"mask": [201338880, 0, 0],
+		"name": "V",
+		"code": "CB-143"
+	},
+	{
+		"id": 27,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 4, "hour": 16 }
+		],
+		"teachers": ["ALCÁNTARA MALCA, DANIEL", "HIDALGO RODRÍGUEZ, JOSÉ"],
+		"mask": [28, 7340032, 0],
+		"name": "U",
+		"code": "CB-201"
+	},
+	{
+		"id": 28,
+		"events": [
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 2, "hour": 16 }
+		],
+		"teachers": ["ALCÁNTARA MALCA, DANIEL", "HIDALGO RODRÍGUEZ, JOSÉ"],
+		"mask": [7340032, 7340032, 0],
+		"name": "V",
+		"code": "CB-201"
+	},
+	{
+		"id": 29,
+		"events": [
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["OSORIO MARUJO, BILMA", "CHAFLOQUE ELÍAS, CARLOS ALBERTO"],
+		"mask": [0, 896, 448],
+		"name": "W",
+		"code": "CB-201"
+	},
+	{
+		"id": 30,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 13 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 }
+		],
+		"teachers": ["ALCÁNTARA MALCA, DANIEL", "FUKUDA KAGAMI, NANCY"],
+		"mask": [3784704, 0, 0],
+		"name": "U",
+		"code": "CB-211"
+	},
+	{
+		"id": 31,
+		"events": [
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 2, "hour": 12 }
+		],
+		"teachers": ["OSORIO MARUJO, BILMA", "RONDINEL PINEDA, PETRA ELINE"],
+		"mask": [458752, 458752, 0],
+		"name": "V",
+		"code": "CB-211"
+	},
+	{
+		"id": 32,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 }
+		],
+		"teachers": [
+			"FUKUDA KAGAMI, NANCY",
+			"HIDALGO RODRÍGUEZ, JOSÉ",
+			"REYES ACOSTA, ROSARIO"
+		],
+		"mask": [7, 192, 0],
+		"name": "U",
+		"code": "CB-221"
+	},
+	{
+		"id": 33,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 1, "hour": 16 }
+		],
+		"teachers": [
+			"RONDINEL PINEDA, PETRA ELINE",
+			"FUKUDA KAGAMI, NANCY",
+			"HIDALGO RODRÍGUEZ, JOSÉ"
+		],
+		"mask": [460, 0, 0],
+		"name": "V",
+		"code": "CB-221"
+	},
+	{
+		"id": 34,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 4, "hour": 13 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["ALCÁNTARA MALCA, DANIEL", "LESCANO ÁVILA, LUIS"],
+		"mask": [3, 3670016, 0],
+		"name": "U",
+		"code": "CB-222"
+	},
+	{
+		"id": 35,
+		"events": [
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 }
+		],
+		"teachers": ["CHAFLOQUE ELÍAS, CARLOS ALBERTO", "FUKUDA KAGAMI, NANCY"],
+		"mask": [28, 0, 3],
+		"name": "V",
+		"code": "CB-222"
+	},
+	{
+		"id": 36,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["LESCANO ÁVILA, LUIS"],
+		"mask": [0, 58720268, 0],
+		"name": "W",
+		"code": "CB-222"
+	},
+	{
+		"id": 37,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 3, "hour": 18 }
+		],
+		"teachers": [
+			"SALCEDO TORRES, JOAQUIN",
+			"PEÑA YALICO, VICENTE",
+			"VALDIVIA MENDOZA, HÉCTOR"
+		],
+		"mask": [3145920, 1792, 0],
+		"name": "U",
+		"code": "CB-302"
+	},
+	{
+		"id": 38,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 3, "hour": 14 }
+		],
+		"teachers": [
+			"CAÑOTE FAJARDO, PERCY",
+			"SAN BARTOLOME, JAIME",
+			"TAFUR ANZUALDO,GELACIO"
+		],
+		"mask": [3145920, 112, 0],
+		"name": "V",
+		"code": "CB-302"
+	},
+	{
+		"id": 39,
+		"events": [
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 }
+		],
+		"teachers": ["VALDIVIA MENDOZA, HÉCTOR", "MOSQUERA MOLINA, MIGUEL"],
+		"mask": [199, 3145728, 0],
+		"name": "W",
+		"code": "CB-302"
+	},
+	{
+		"id": 40,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 },
+			{ "day": 4, "hour": 14 }
+		],
+		"teachers": ["SALCEDO TORRES, JOAQUIN", "SAN BARTOLOME, JAIME"],
+		"mask": [12583680, 1835008, 0],
+		"name": "U",
+		"code": "CB-312"
+	},
+	{
+		"id": 41,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 4, "hour": 18 }
+		],
+		"teachers": [
+			"CAÑOTE FAJARDO, PERCY",
+			"SAN BARTOLOME, JAIME",
+			"TAFUR ANZUALDO,GELACIO"
+		],
+		"mask": [12582912, 29360896, 0],
+		"name": "V",
+		"code": "CB-312"
+	},
+	{
+		"id": 42,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 1, "hour": 13 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 1, "hour": 13 },
+			{ "day": 1, "hour": 14 }
+		],
+		"teachers": [
+			"TAFUR ANZUALDO,GELACIO",
+			"PEÑA YALICO, VICENTE",
+			"MOSQUERA MOLINA, MIGUEL"
+		],
+		"mask": [196720, 196608, 0],
+		"name": "W",
+		"code": "CB-312"
+	},
+	{
+		"id": 43,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 }
+		],
+		"teachers": ["CAÑOTE FAJARDO, PERCY"],
+		"mask": [768, 0, 448],
+		"name": "U",
+		"code": "CB-313"
+	},
+	{
+		"id": 44,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 4, "hour": 18 }
+		],
+		"teachers": ["VALDIVIA MENDOZA, HÉCTOR"],
+		"mask": [768, 29360128, 0],
+		"name": "V",
+		"code": "CB-313"
+	},
+	{
+		"id": 45,
+		"events": [
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["LOZANO VASQUEZ, ALVINA"],
+		"mask": [0, 0, 197376],
+		"name": "U",
+		"code": "CB-402"
+	},
+	{
+		"id": 46,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 }
+		],
+		"teachers": ["CERNA VALDEZ,YARKO"],
+		"mask": [49152, 49152, 0],
+		"name": "V",
+		"code": "CB-402"
+	},
+	{
+		"id": 47,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 6, "hour": 12 },
+			{ "day": 6, "hour": 13 }
+		],
+		"teachers": ["LOZANO VASQUEZ, ALVINA"],
+		"mask": [0, 0, 789504],
+		"name": "W",
+		"code": "CB-402"
+	},
+	{
+		"id": 48,
+		"events": [
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["CERNA VALDEZ,YARKO"],
+		"mask": [0, 196608, 12],
+		"name": "X",
+		"code": "CB-402"
+	},
+	{
+		"id": 49,
+		"events": [
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 }
+		],
+		"teachers": ["RAMOS BALLÓN, GRIMANESA"],
+		"mask": [196608, 12582912, 0],
+		"name": "U",
+		"code": "CB-412"
+	},
+	{
+		"id": 50,
+		"events": [
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 }
+		],
+		"teachers": ["CERNA VALDEZ,YARKO"],
+		"mask": [196608, 0, 3],
+		"name": "V",
+		"code": "CB-412"
+	},
+	{
+		"id": 51,
+		"events": [
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["RODRÍGUEZ FRANCO, WALDO ALEJANDRO"],
+		"mask": [0, 768, 768],
+		"name": "U",
+		"code": "GP-101"
+	},
+	{
+		"id": 52,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["MORILLO ROJAS, DANIEL"],
+		"mask": [12582912, 768, 0],
+		"name": "V",
+		"code": "GP-101"
+	},
+	{
+		"id": 53,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 }
+		],
+		"teachers": ["VILLANUEVA HERRERA, JOSÉ ALBERTO"],
+		"mask": [50334720, 0, 0],
+		"name": "U",
+		"code": "GP-102"
+	},
+	{
+		"id": 54,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["RIZABAL FLORES, ELIANA CECILIA"],
+		"mask": [0, 0, 15360],
+		"name": "V",
+		"code": "GP-102"
+	},
+	{
+		"id": 55,
+		"events": [
+			{ "day": 2, "hour": 11 },
+			{ "day": 2, "hour": 12 },
+			{ "day": 2, "hour": 13 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": [
+			"LAU CARRILLO, CARMEN IVONNE",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [917504, 0, 12],
+		"name": "U",
+		"code": "GP-112"
+	},
+	{
+		"id": 56,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["EGÚZQUIZA FIGUEROA, MARÍA ENERINA"],
+		"mask": [28, 196608, 0],
+		"name": "V",
+		"code": "GP-112"
+	},
+	{
+		"id": 57,
+		"events": [
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 }
+		],
+		"teachers": ["RODRÍGUEZ FRANCO, WALDO ALEJANDRO"],
+		"mask": [0, 117440512, 48],
+		"name": "U",
+		"code": "GP-113"
+	},
+	{
+		"id": 58,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 2, "hour": 12 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["ARCE SOLIS DE URBINA, TEÓFILA IRENE"],
+		"mask": [458752, 196608, 0],
+		"name": "V",
+		"code": "GP-113"
+	},
+	{
+		"id": 59,
+		"events": [
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 }
+		],
+		"teachers": ["RODRÍGUEZ FRANCO, WALDO ALEJANDRO"],
+		"mask": [0, 117440512, 192],
+		"name": "W",
+		"code": "GP-113"
+	},
+	{
+		"id": 60,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": [
+			"ARCE SOLIS DE URBINA, TEÓFILA IRENE",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [3145728, 0, 192],
+		"name": "U",
+		"code": "GP-114"
+	},
+	{
+		"id": 61,
+		"events": [{ "day": 3, "hour": 16 }, { "day": 3, "hour": 17 }],
+		"teachers": ["HUAMANÍ HUAMANÍ, GLORIA TERESITA"],
+		"mask": [0, 768, 0],
+		"name": "U",
+		"code": "GP-122"
+	},
+	{
+		"id": 62,
+		"events": [{ "day": 2, "hour": 18 }, { "day": 2, "hour": 19 }],
+		"teachers": ["MORILLO ROJAS, DANIEL"],
+		"mask": [50331648, 0, 0],
+		"name": "V",
+		"code": "GP-122"
+	},
+	{
+		"id": 63,
+		"events": [{ "day": 6, "hour": 12 }, { "day": 6, "hour": 13 }],
+		"teachers": ["SEDANO SANTIAGO, INOCENTE CIRILO"],
+		"mask": [0, 0, 786432],
+		"name": "W",
+		"code": "GP-122"
+	},
+	{
+		"id": 64,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["LLANCCE MONDRAGÓN, LUISA"],
+		"mask": [192, 192, 0],
+		"name": "U",
+		"code": "GP-123"
+	},
+	{
+		"id": 65,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["CAICEDO BUSTAMANTE, VÍCTOR ANTONIO"],
+		"mask": [768, 768, 0],
+		"name": "V",
+		"code": "GP-123"
+	},
+	{
+		"id": 66,
+		"events": [
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["SEDANO SANTIAGO, INOCENTE CIRILO"],
+		"mask": [0, 3932160, 0],
+		"name": "U",
+		"code": "GP-133"
+	},
+	{
+		"id": 67,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 }
+		],
+		"teachers": ["VILLANUEVA HERRERA, JOSÉ ALBERTO"],
+		"mask": [3145920, 0, 0],
+		"name": "V",
+		"code": "GP-133"
+	},
+	{
+		"id": 68,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["PONCE SÁNCHEZ, CARLOS FIDEL"],
+		"mask": [0, 251658240, 0],
+		"name": "U",
+		"code": "GP-134"
+	},
+	{
+		"id": 69,
+		"events": [
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["CAICEDO BUSTAMANTE, VÍCTOR ANTONIO"],
+		"mask": [12288, 0, 12288],
+		"name": "U",
+		"code": "GP-154"
+	},
+	{
+		"id": 70,
+		"events": [
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["MORILLO ROJAS, DANIEL"],
+		"mask": [201326592, 201326592, 0],
+		"name": "V",
+		"code": "GP-154"
+	},
+	{
+		"id": 71,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 }
+		],
+		"teachers": ["QUINTEROS CHÁVEZ, SILVIO"],
+		"mask": [49152, 49152, 0],
+		"name": "U",
+		"code": "GP-202"
+	},
+	{
+		"id": 72,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["MIRANDA TORRES, CÉSAR"],
+		"mask": [12, 196608, 0],
+		"name": "V",
+		"code": "GP-202"
+	},
+	{
+		"id": 73,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["MONDRAGON HERNÁNDEZ, MARGARITA"],
+		"mask": [192, 192, 0],
+		"name": "W",
+		"code": "GP-202"
+	},
+	{
+		"id": 74,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["MONDRAGON HERNÁNDEZ, MARGARITA"],
+		"mask": [768, 768, 0],
+		"name": "X",
+		"code": "GP-202"
+	},
+	{
+		"id": 75,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["MIRANDA TORRES, CÉSAR"],
+		"mask": [3145728, 3145728, 0],
+		"name": "U",
+		"code": "GP-203"
+	},
+	{
+		"id": 76,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["MIRANDA TORRES, CÉSAR"],
+		"mask": [12582912, 12582912, 0],
+		"name": "V",
+		"code": "GP-203"
+	},
+	{
+		"id": 77,
+		"events": [
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["ORTEGA LOAYZA, Daniel"],
+		"mask": [24, 196608, 0],
+		"name": "W",
+		"code": "GP-203"
+	},
+	{
+		"id": 78,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["MONDRAGON HERNÁNDEZ, MARGARITA"],
+		"mask": [196608, 196608, 0],
+		"name": "X",
+		"code": "GP-203"
+	},
+	{
+		"id": 79,
+		"events": [
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": [
+			"VALDIVIA CAMACHO, GLORIA ESTHER",
+			"ORDOÑEZ ROJAS, GERARDO MANUEL"
+		],
+		"mask": [12288, 12288, 0],
+		"name": "U",
+		"code": "GP-205"
+	},
+	{
+		"id": 80,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["LEYTON DIAZ, VÍCTOR ADOLFO"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "GP-223"
+	},
+	{
+		"id": 81,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["FALCONÍ VÁSQUEZ, RODOLFO ELÍAS"],
+		"mask": [12582912, 12582912, 0],
+		"name": "V",
+		"code": "GP-223"
+	},
+	{
+		"id": 82,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["VALLE SANTOS, JOHN CLERK"],
+		"mask": [0, 251658240, 0],
+		"name": "W",
+		"code": "GP-223"
+	},
+	{
+		"id": 83,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["LEYTON DIAZ, VÍCTOR ADOLFO"],
+		"mask": [3145728, 3145728, 0],
+		"name": "U",
+		"code": "GP-233"
+	},
+	{
+		"id": 84,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["FALCONÍ VÁSQUEZ, RODOLFO ELÍAS"],
+		"mask": [768, 0, 768],
+		"name": "V",
+		"code": "GP-233"
+	},
+	{
+		"id": 85,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["LINARES VALENCIA, JOSÉ"],
+		"mask": [0, 0, 245760],
+		"name": "W",
+		"code": "GP-233"
+	},
+	{
+		"id": 86,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 }
+		],
+		"teachers": [
+			"VALDIVIA CARDENAS, DANIEL",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [50332416, 0, 0],
+		"name": "U",
+		"code": "GP-234"
+	},
+	{
+		"id": 87,
+		"events": [
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 }
+		],
+		"teachers": ["EYZAGUIRRE TEJADA, ROBERTO ERASMO"],
+		"mask": [0, 786480, 0],
+		"name": "V",
+		"code": "GP-234"
+	},
+	{
+		"id": 88,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["FLORES BASHI, CARLOS ANTONIO"],
+		"mask": [3145728, 3145728, 0],
+		"name": "W",
+		"code": "GP-234"
+	},
+	{
+		"id": 89,
+		"events": [
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["FLORES CISNEROS, ERNESTO ROBINSON"],
+		"mask": [0, 12582912, 768],
+		"name": "U",
+		"code": "GP-235"
+	},
+	{
+		"id": 90,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["VALLE SANTOS, JOHN CLERK"],
+		"mask": [0, 15360, 0],
+		"name": "V",
+		"code": "GP-235"
+	},
+	{
+		"id": 91,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["LINARES VALENCIA, JOSÉ"],
+		"mask": [251658240, 0, 0],
+		"name": "W",
+		"code": "GP-235"
+	},
+	{
+		"id": 92,
+		"events": [
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["FALCONÍ VÁSQUEZ, RODOLFO ELÍAS"],
+		"mask": [0, 0, 14336],
+		"name": "U",
+		"code": "GP-244"
+	},
+	{
+		"id": 93,
+		"events": [
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 }
+		],
+		"teachers": ["LOPEZ ALIAGA, CAZORLA RAFAEL"],
+		"mask": [0, 0, 3840],
+		"name": "U",
+		"code": "GP-245"
+	},
+	{
+		"id": 94,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["ZÁRATE OTÁROLA, LEONIDAS BENITO"],
+		"mask": [192, 192, 0],
+		"name": "U",
+		"code": "GP-304"
+	},
+	{
+		"id": 95,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["HUAMANÍ HUAMANÍ, GLORIA TERESITA"],
+		"mask": [12582912, 12582912, 0],
+		"name": "V",
+		"code": "GP-304"
+	},
+	{
+		"id": 96,
+		"events": [
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 },
+			{ "day": 6, "hour": 13 }
+		],
+		"teachers": ["ZAMORA YANSI, RICHARD ISMAEL"],
+		"mask": [0, 0, 983040],
+		"name": "W",
+		"code": "GP-304"
+	},
+	{
+		"id": 97,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["SEDANO SANTIAGO, INOCENTE CIRILO"],
+		"mask": [0, 0, 245760],
+		"name": "U",
+		"code": "GP-314"
+	},
+	{
+		"id": 98,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["FLORES BASHI, CARLOS ANTONIO"],
+		"mask": [768, 12582912, 0],
+		"name": "V",
+		"code": "GP-314"
+	},
+	{
+		"id": 99,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["ESPINOZA ESPINOZA, JOSE ALFREDO"],
+		"mask": [0, 0, 245760],
+		"name": "W",
+		"code": "GP-314"
+	},
+	{
+		"id": 100,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["ZÁRATE OTÁROLA, LEONIDAS BENITO"],
+		"mask": [768, 768, 0],
+		"name": "U",
+		"code": "GP-324"
+	},
+	{
+		"id": 101,
+		"events": [
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 }
+		],
+		"teachers": [
+			"HUAMANÍ HUAMANÍ, GLORIA TERESITA",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [0, 786480, 0],
+		"name": "U",
+		"code": "GP-403"
+	},
+	{
+		"id": 102,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["PONCE SÁNCHEZ, CARLOS FIDEL"],
+		"mask": [12582912, 12582912, 0],
+		"name": "V",
+		"code": "GP-403"
+	},
+	{
+		"id": 103,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["ACUÑA PINAUD, LEONCIO LUIS"],
+		"mask": [50331648, 50331648, 0],
+		"name": "U",
+		"code": "GP-404"
+	},
+	{
+		"id": 104,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["PACHECO CONTRERAS, JOHNNY MARTÍN"],
+		"mask": [768, 0, 768],
+		"name": "V",
+		"code": "GP-404"
+	},
+	{
+		"id": 105,
+		"events": [
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["ZALDÍVAR ALVAREZ, OSCAR GUILLERMO"],
+		"mask": [0, 15728640, 0],
+		"name": "U",
+		"code": "GP-514"
+	},
+	{
+		"id": 106,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 }
+		],
+		"teachers": ["VILLANUEVA HERRERA, JOSÉ ALBERTO"],
+		"mask": [12583680, 0, 0],
+		"name": "V",
+		"code": "GP-514"
+	},
+	{
+		"id": 107,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 }
+		],
+		"teachers": ["ZÁRATE OTÁROLA, LEONIDAS BENITO"],
+		"mask": [62914560, 0, 0],
+		"name": "U",
+		"code": "GP-515"
+	},
+	{
+		"id": 108,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["LLANCCE MONDRAGÓN, LUISA"],
+		"mask": [768, 768, 0],
+		"name": "V",
+		"code": "GP-515"
+	},
+	{
+		"id": 109,
+		"events": [
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["FLORES BASHI, CARLOS ANTONIO"],
+		"mask": [0, 768, 768],
+		"name": "W",
+		"code": "GP-515"
+	},
+	{
+		"id": 110,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["SHEPUT MOORE, JUAN"],
+		"mask": [15360, 0, 0],
+		"name": "X",
+		"code": "GP-515"
+	},
+	{
+		"id": 111,
+		"events": [
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 }
+		],
+		"teachers": ["FLORES CISNEROS, ERNESTO ROBINSON"],
+		"mask": [58720256, 0, 3072],
+		"name": "U",
+		"code": "GP-525"
+	},
+	{
+		"id": 112,
+		"events": [
+			{ "day": 3, "hour": 17 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 }
+		],
+		"teachers": ["VALDIVIA CARDENAS, DANIEL"],
+		"mask": [3072, 3584, 0],
+		"name": "V",
+		"code": "GP-525"
+	},
+	{
+		"id": 113,
+		"events": [
+			{ "day": 5, "hour": 17 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["LINARES VALENCIA, JOSÉ"],
+		"mask": [0, 0, 15872],
+		"name": "W",
+		"code": "GP-525"
+	},
+	{
+		"id": 114,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["EGÚZQUIZA FIGUEROA, MARÍA ENERINA"],
+		"mask": [768, 768, 0],
+		"name": "U",
+		"code": "GP-535"
+	},
+	{
+		"id": 115,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 }
+		],
+		"teachers": ["CAICEDO BUSTAMANTE, VÍCTOR ANTONIO"],
+		"mask": [3072, 3072, 0],
+		"name": "V",
+		"code": "GP-535"
+	},
+	{
+		"id": 116,
+		"events": [
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 }
+		],
+		"teachers": ["LAU CARRILLO, CARMEN IVONNE"],
+		"mask": [0, 3840, 0],
+		"name": "U",
+		"code": "GP-545"
+	},
+	{
+		"id": 117,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["ROJAS MENDOZA, DORIS FANNY"],
+		"mask": [0, 15360, 0],
+		"name": "V",
+		"code": "GP-545"
+	},
+	{
+		"id": 118,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["ESPINOZA ESPINOZA, JOSE ALFREDO"],
+		"mask": [15360, 0, 0],
+		"name": "U",
+		"code": "GP-555"
+	},
+	{
+		"id": 119,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 }
+		],
+		"teachers": ["VALDIVIA CARDENAS, DANIEL"],
+		"mask": [0, 50331648, 3072],
+		"name": "V",
+		"code": "GP-555"
+	},
+	{
+		"id": 120,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["FLORES CISNEROS, ERNESTO ROBINSON"],
+		"mask": [768, 50331648, 0],
+		"name": "U",
+		"code": "GP-575"
+	},
+	{
+		"id": 121,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["PONCE SÁNCHEZ, CARLOS FIDEL"],
+		"mask": [251658240, 0, 0],
+		"name": "V",
+		"code": "GP-575"
+	},
+	{
+		"id": 122,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 }
+		],
+		"teachers": ["CHAVARRI ARCE, RAQUEL MARTHA"],
+		"mask": [7, 0, 0],
+		"name": "U",
+		"code": "HS-101"
+	},
+	{
+		"id": 123,
+		"events": [
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 },
+			{ "day": 4, "hour": 10 }
+		],
+		"teachers": ["CHAVARRI ARCE, RAQUEL MARTHA"],
+		"mask": [0, 114688, 0],
+		"name": "V",
+		"code": "HS-101"
+	},
+	{
+		"id": 124,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 }
+		],
+		"teachers": ["TAIPE ARIAS, JOHN EDISON"],
+		"mask": [0, 0, 114688],
+		"name": "W",
+		"code": "HS-101"
+	},
+	{
+		"id": 125,
+		"events": [
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 },
+			{ "day": 6, "hour": 13 }
+		],
+		"teachers": ["TAIPE ARIAS, JOHN EDISON"],
+		"mask": [0, 0, 917504],
+		"name": "X",
+		"code": "HS-101"
+	},
+	{
+		"id": 126,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["SANCHEZ HUARINGA, CARLOS"],
+		"mask": [0, 201333760, 0],
+		"name": "U",
+		"code": "HS-102"
+	},
+	{
+		"id": 127,
+		"events": [
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 }
+		],
+		"teachers": ["HUERTA ORTEGA, JAVIER"],
+		"mask": [0, 0, 458755],
+		"name": "V",
+		"code": "HS-102"
+	},
+	{
+		"id": 128,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 }
+		],
+		"teachers": ["CHAVARRI ARCE, RAQUEL MARTHA"],
+		"mask": [49152, 12, 0],
+		"name": "U",
+		"code": "HS-111"
+	},
+	{
+		"id": 129,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 }
+		],
+		"teachers": ["CAMPANA AÑASCO, RILDO"],
+		"mask": [12582924, 0, 0],
+		"name": "V",
+		"code": "HS-111"
+	},
+	{
+		"id": 130,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 }
+		],
+		"teachers": ["ACEVEDO RAYMUNDO,Saúl"],
+		"mask": [3146496, 0, 0],
+		"name": "W",
+		"code": "HS-111"
+	},
+	{
+		"id": 131,
+		"events": [
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 }
+		],
+		"teachers": ["ACEVEDO RAYMUNDO,Saúl"],
+		"mask": [196632, 0, 0],
+		"name": "X",
+		"code": "HS-111"
+	},
+	{
+		"id": 132,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["KRAJNIK STULIN, FRANCO"],
+		"mask": [3145728, 3145728, 0],
+		"name": "U",
+		"code": "HS-121"
+	},
+	{
+		"id": 133,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 }
+		],
+		"teachers": ["ORTEGA LOAYZA, Daniel"],
+		"mask": [3, 49152, 0],
+		"name": "V",
+		"code": "HS-121"
+	},
+	{
+		"id": 134,
+		"events": [
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["LESCANO ÁVILA, LUIS"],
+		"mask": [0, 48, 768],
+		"name": "W",
+		"code": "HS-121"
+	},
+	{
+		"id": 135,
+		"events": [{ "day": 2, "hour": 10 }, { "day": 2, "hour": 11 }],
+		"teachers": ["CHAVARRI ARCE, RAQUEL MARTHA"],
+		"mask": [196608, 0, 0],
+		"name": "U",
+		"code": "HS-131"
+	},
+	{
+		"id": 136,
+		"events": [{ "day": 4, "hour": 10 }, { "day": 4, "hour": 11 }],
+		"teachers": ["SANCHEZ HUARINGA, CARLOS"],
+		"mask": [0, 196608, 0],
+		"name": "V",
+		"code": "HS-131"
+	},
+	{
+		"id": 137,
+		"events": [{ "day": 5, "hour": 10 }, { "day": 5, "hour": 11 }],
+		"teachers": ["SANCHEZ HUARINGA, CARLOS"],
+		"mask": [0, 0, 12],
+		"name": "W",
+		"code": "HS-131"
+	},
+	{
+		"id": 138,
+		"events": [{ "day": 6, "hour": 10 }, { "day": 6, "hour": 11 }],
+		"teachers": ["CAMPANA AÑASCO, RILDO"],
+		"mask": [0, 0, 196608],
+		"name": "U",
+		"code": "HS-141"
+	},
+	{
+		"id": 139,
+		"events": [{ "day": 6, "hour": 8 }, { "day": 6, "hour": 9 }],
+		"teachers": ["CAMPANA AÑASCO, RILDO"],
+		"mask": [0, 0, 49152],
+		"name": "V",
+		"code": "HS-141"
+	},
+	{
+		"id": 140,
+		"events": [{ "day": 5, "hour": 8 }, { "day": 5, "hour": 9 }],
+		"teachers": ["AYALA FALCÓN, ELOY ELADIO"],
+		"mask": [0, 0, 3],
+		"name": "W",
+		"code": "HS-141"
+	},
+	{
+		"id": 141,
+		"events": [{ "day": 5, "hour": 10 }, { "day": 5, "hour": 11 }],
+		"teachers": ["AYALA FALCÓN, ELOY ELADIO"],
+		"mask": [0, 0, 12],
+		"name": "X",
+		"code": "HS-141"
+	},
+	{
+		"id": 142,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 1, "hour": 18 }
+		],
+		"teachers": ["VALDIVIA CAMACHO, GLORIA ESTHER"],
+		"mask": [1792, 0, 0],
+		"name": "U",
+		"code": "HS-144"
+	},
+	{
+		"id": 143,
+		"events": [
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["CAMPANA AÑASCO, RILDO"],
+		"mask": [234881024, 0, 0],
+		"name": "U",
+		"code": "HS-151"
+	},
+	{
+		"id": 144,
+		"events": [{ "day": 3, "hour": 14 }, { "day": 3, "hour": 15 }],
+		"teachers": ["YUPANQUI SANCHEZ ANGEL"],
+		"mask": [0, 192, 0],
+		"name": "U",
+		"code": "HS-201"
+	},
+	{
+		"id": 145,
+		"events": [{ "day": 4, "hour": 16 }, { "day": 4, "hour": 17 }],
+		"teachers": ["YUPANQUI SANCHEZ ANGEL"],
+		"mask": [0, 12582912, 0],
+		"name": "V",
+		"code": "HS-201"
+	},
+	{
+		"id": 146,
+		"events": [{ "day": 5, "hour": 10 }, { "day": 5, "hour": 11 }],
+		"teachers": ["HUERTA ORTEGA, JAVIER"],
+		"mask": [0, 0, 12],
+		"name": "W",
+		"code": "HS-201"
+	},
+	{
+		"id": 147,
+		"events": [{ "day": 5, "hour": 12 }, { "day": 5, "hour": 13 }],
+		"teachers": ["HUERTA ORTEGA, JAVIER"],
+		"mask": [0, 0, 48],
+		"name": "X",
+		"code": "HS-201"
+	},
+	{
+		"id": 148,
+		"events": [{ "day": 3, "hour": 16 }, { "day": 3, "hour": 17 }],
+		"teachers": ["YUPANQUI SANCHEZ ANGEL"],
+		"mask": [0, 768, 0],
+		"name": "U",
+		"code": "HS-204"
+	},
+	{
+		"id": 149,
+		"events": [{ "day": 4, "hour": 18 }, { "day": 4, "hour": 19 }],
+		"teachers": ["HUERTA ORTEGA, JAVIER"],
+		"mask": [0, 50331648, 0],
+		"name": "V",
+		"code": "HS-204"
+	},
+	{
+		"id": 150,
+		"events": [{ "day": 6, "hour": 8 }, { "day": 6, "hour": 9 }],
+		"teachers": ["HUERTA ORTEGA, JAVIER"],
+		"mask": [0, 0, 49152],
+		"name": "W",
+		"code": "HS-204"
+	},
+	{
+		"id": 151,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["MORALES CUELLAR, MERY NOEMI"],
+		"mask": [768, 768, 0],
+		"name": "U",
+		"code": "ST-101"
+	},
+	{
+		"id": 152,
+		"events": [
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["GUZMÁN YANGATO, JORGE FERNANDO"],
+		"mask": [0, 245760, 0],
+		"name": "V",
+		"code": "ST-101"
+	},
+	{
+		"id": 153,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["CANCHANO CARO, JAVIER TOLENTINO"],
+		"mask": [0, 251658240, 0],
+		"name": "U",
+		"code": "ST-103"
+	},
+	{
+		"id": 154,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["LLANOS PANDURO, JORGE DANIEL"],
+		"mask": [0, 0, 15360],
+		"name": "V",
+		"code": "ST-103"
+	},
+	{
+		"id": 155,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 }
+		],
+		"teachers": ["TOCTO INGA, PAUL MILLER"],
+		"mask": [3072, 3072, 0],
+		"name": "U",
+		"code": "ST-111"
+	},
+	{
+		"id": 156,
+		"events": [
+			{ "day": 4, "hour": 13 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 },
+			{ "day": 4, "hour": 16 }
+		],
+		"teachers": ["FISFALEN HUERTA, MARIO"],
+		"mask": [0, 7864320, 0],
+		"name": "V",
+		"code": "ST-111"
+	},
+	{
+		"id": 157,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 4, "hour": 12 },
+			{ "day": 4, "hour": 13 }
+		],
+		"teachers": ["ALVAREZ ALVAREZ, JORGE"],
+		"mask": [0, 786444, 0],
+		"name": "U",
+		"code": "ST-113"
+	},
+	{
+		"id": 158,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": [
+			"CANELO SOTELO, CÉSAR ALDO",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [0, 196620, 0],
+		"name": "V",
+		"code": "ST-113"
+	},
+	{
+		"id": 159,
+		"events": [
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 },
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 }
+		],
+		"teachers": ["ALVAREZ ALVAREZ, JORGE"],
+		"mask": [0, 196608, 12],
+		"name": "W",
+		"code": "ST-113"
+	},
+	{
+		"id": 160,
+		"events": [
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 },
+			{ "day": 5, "hour": 12 },
+			{ "day": 5, "hour": 13 }
+		],
+		"teachers": [
+			"MEDINA AQUINO, LUIS FELIPE",
+			"FERNÁNDEZ LOSTAUNAU, CÉSAR ANTONIO"
+		],
+		"mask": [0, 196608, 48],
+		"name": "X",
+		"code": "ST-113"
+	},
+	{
+		"id": 161,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 4, "hour": 10 },
+			{ "day": 4, "hour": 11 }
+		],
+		"teachers": ["EYZAGUIRRE TEJADA, ROBERTO ERASMO"],
+		"mask": [49152, 196608, 0],
+		"name": "Y",
+		"code": "ST-113"
+	},
+	{
+		"id": 162,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["PUCCIO QUEVEDO, BRUNO JUAN"],
+		"mask": [0, 0, 245760],
+		"name": "U",
+		"code": "ST-114"
+	},
+	{
+		"id": 163,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["MEDINA AQUINO, LUIS FELIPE"],
+		"mask": [0, 960, 0],
+		"name": "V",
+		"code": "ST-114"
+	},
+	{
+		"id": 164,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["CANELO SOTELO, CÉSAR ALDO"],
+		"mask": [3145728, 3145728, 0],
+		"name": "W",
+		"code": "ST-114"
+	},
+	{
+		"id": 165,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["MEDINA AQUINO, LUIS FELIPE"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "ST-123"
+	},
+	{
+		"id": 166,
+		"events": [
+			{ "day": 2, "hour": 10 },
+			{ "day": 2, "hour": 11 },
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 }
+		],
+		"teachers": ["EYZAGUIRRE TEJADA, ROBERTO ERASMO"],
+		"mask": [196608, 12, 0],
+		"name": "V",
+		"code": "ST-123"
+	},
+	{
+		"id": 167,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["CANELO SOTELO, CÉSAR ALDO"],
+		"mask": [12582912, 12582912, 0],
+		"name": "W",
+		"code": "ST-123"
+	},
+	{
+		"id": 168,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["ULFE VEGA, LUIS ALBERTO"],
+		"mask": [0, 15360, 0],
+		"name": "X",
+		"code": "ST-123"
+	},
+	{
+		"id": 169,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 }
+		],
+		"teachers": ["SOTELO VILLENA, JUAN CARLOS"],
+		"mask": [3072, 3072, 0],
+		"name": "U",
+		"code": "ST-124"
+	},
+	{
+		"id": 170,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["ZULOAGA ROTTA, LUIS ALBERTO", "MEDINA AQUINO, LUIS FELIPE"],
+		"mask": [0, 251658240, 0],
+		"name": "V",
+		"code": "ST-124"
+	},
+	{
+		"id": 171,
+		"events": [
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 }
+		],
+		"teachers": ["PACHECO VERA CESAR ABRAHAM"],
+		"mask": [0, 0, 15728640],
+		"name": "W",
+		"code": "ST-124"
+	},
+	{
+		"id": 172,
+		"events": [
+			{ "day": 6, "hour": 13 },
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 }
+		],
+		"teachers": ["MÉNDEZ VALDIVIA, CELEDONIO"],
+		"mask": [0, 0, 7864320],
+		"name": "U",
+		"code": "ST-133"
+	},
+	{
+		"id": 173,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["LLANOS PANDURO, JORGE DANIEL"],
+		"mask": [0, 15360, 0],
+		"name": "V",
+		"code": "ST-133"
+	},
+	{
+		"id": 174,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 1, "hour": 12 },
+			{ "day": 1, "hour": 13 }
+		],
+		"teachers": ["PORTILLO CAMPBELL, JOSÉ HUGO"],
+		"mask": [60, 0, 0],
+		"name": "W",
+		"code": "ST-133"
+	},
+	{
+		"id": 175,
+		"events": [
+			{ "day": 1, "hour": 10 },
+			{ "day": 1, "hour": 11 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 }
+		],
+		"teachers": ["CÓRDOVA NERI, TEODORO LUCIANO"],
+		"mask": [12, 0, 448],
+		"name": "U",
+		"code": "ST-202"
+	},
+	{
+		"id": 176,
+		"events": [
+			{ "day": 3, "hour": 17 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["CABALLERO ORTIZ, JOSÉ ALBERTO"],
+		"mask": [0, 15872, 0],
+		"name": "V",
+		"code": "ST-202"
+	},
+	{
+		"id": 177,
+		"events": [
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 },
+			{ "day": 6, "hour": 18 }
+		],
+		"teachers": ["PALACIOS REZZA, ROY DAVID"],
+		"mask": [0, 0, 32505856],
+		"name": "W",
+		"code": "ST-202"
+	},
+	{
+		"id": 178,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["REYNA MONTEVERDE, TINO EDUARDO"],
+		"mask": [50331648, 201326592, 0],
+		"name": "U",
+		"code": "ST-203"
+	},
+	{
+		"id": 179,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["MONROY MIRANDA, ARIEL LUDWING"],
+		"mask": [0, 251658240, 0],
+		"name": "V",
+		"code": "ST-203"
+	},
+	{
+		"id": 180,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["MEZA YANGALI, CÉSAR"],
+		"mask": [0, 0, 245760],
+		"name": "W",
+		"code": "ST-203"
+	},
+	{
+		"id": 181,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 }
+		],
+		"teachers": ["SÁNCHEZ ESPINOZA, JAVIER CONCEPCIÓN"],
+		"mask": [3072, 3072, 3072],
+		"name": "U",
+		"code": "ST-204"
+	},
+	{
+		"id": 182,
+		"events": [
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["CARRANZA BARRENA WILFREDO"],
+		"mask": [14336, 14336, 0],
+		"name": "V",
+		"code": "ST-204"
+	},
+	{
+		"id": 183,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["RODRÍGUEZ ULLOA, RICARDO, AURELIO"],
+		"mask": [15360, 0, 0],
+		"name": "U",
+		"code": "ST-205"
+	},
+	{
+		"id": 184,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["TEJADA MALASPINA, MIGUEL ÁNGEL"],
+		"mask": [0, 0, 245760],
+		"name": "V",
+		"code": "ST-205"
+	},
+	{
+		"id": 185,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["ZULOAGA ROTTA, LUIS ALBERTO"],
+		"mask": [117440512, 0, 15360],
+		"name": "U",
+		"code": "ST-213"
+	},
+	{
+		"id": 186,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["ANTAURCO TRUJILLO, JESÚS WALTER"],
+		"mask": [7168, 0, 15360],
+		"name": "V",
+		"code": "ST-213"
+	},
+	{
+		"id": 187,
+		"events": [
+			{ "day": 4, "hour": 15 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["PERFECTO MANRIQUE, WILMER"],
+		"mask": [0, 31457280, 896],
+		"name": "W",
+		"code": "ST-213"
+	},
+	{
+		"id": 188,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["VELARDE CARPIO, MANUEL HELARF"],
+		"mask": [251658240, 0, 0],
+		"name": "U",
+		"code": "ST-214"
+	},
+	{
+		"id": 189,
+		"events": [
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["REYNA MONTEVERDE, TINO EDUARDO"],
+		"mask": [201326592, 0, 196608],
+		"name": "V",
+		"code": "ST-214"
+	},
+	{
+		"id": 190,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["BRINGAS MASGO, ISAAC ERNESTO"],
+		"mask": [15360, 0, 0],
+		"name": "U",
+		"code": "ST-215"
+	},
+	{
+		"id": 191,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["TRIGO PÉREZ, CARLOS ALFREDO"],
+		"mask": [0, 251658240, 0],
+		"name": "V",
+		"code": "ST-215"
+	},
+	{
+		"id": 192,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 }
+		],
+		"teachers": ["SOTELO VILLENA, JUAN CARLOS"],
+		"mask": [49920, 0, 0],
+		"name": "U",
+		"code": "ST-221"
+	},
+	{
+		"id": 193,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 }
+		],
+		"teachers": ["RAMOS BALLÓN, GRIMANESA"],
+		"mask": [49152, 192, 0],
+		"name": "V",
+		"code": "ST-221"
+	},
+	{
+		"id": 194,
+		"events": [
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 }
+		],
+		"teachers": ["ACOSTA DE LA CRUZ, PEDRO RAÚL"],
+		"mask": [49152, 0, 3],
+		"name": "W",
+		"code": "ST-221"
+	},
+	{
+		"id": 195,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 }
+		],
+		"teachers": ["CÓRDOVA NERI, TEODORO LUCIANO"],
+		"mask": [49155, 0, 0],
+		"name": "X",
+		"code": "ST-221"
+	},
+	{
+		"id": 196,
+		"events": [
+			{ "day": 5, "hour": 10 },
+			{ "day": 5, "hour": 11 },
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 }
+		],
+		"teachers": ["CÓRDOVA NERI, TEODORO LUCIANO"],
+		"mask": [0, 12, 12],
+		"name": "U",
+		"code": "ST-222"
+	},
+	{
+		"id": 197,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 }
+		],
+		"teachers": ["ARADIEL CASTAÑEDA, HILARIO"],
+		"mask": [0, 3, 3],
+		"name": "V",
+		"code": "ST-222"
+	},
+	{
+		"id": 198,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 }
+		],
+		"teachers": ["LUJÁN CAMPOS, LUIS ALBERTO"],
+		"mask": [15728640, 0, 0],
+		"name": "W",
+		"code": "ST-222"
+	},
+	{
+		"id": 199,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["RODRÍGUEZ ULLOA, RICARDO, AURELIO"],
+		"mask": [0, 15360, 0],
+		"name": "U",
+		"code": "ST-224"
+	},
+	{
+		"id": 200,
+		"events": [{ "day": 5, "hour": 20 }, { "day": 5, "hour": 21 }],
+		"teachers": ["SÁNCHEZ ESPINOZA, JAVIER CONCEPCIÓN"],
+		"mask": [0, 0, 12288],
+		"name": "U",
+		"code": "ST-231"
+	},
+	{
+		"id": 201,
+		"events": [{ "day": 2, "hour": 18 }, { "day": 2, "hour": 19 }],
+		"teachers": ["ROJAS SOLIS, YSABEL"],
+		"mask": [50331648, 0, 0],
+		"name": "V",
+		"code": "ST-231"
+	},
+	{
+		"id": 202,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 18 }
+		],
+		"teachers": ["PERFECTO MANRIQUE, WILMER"],
+		"mask": [32505856, 0, 0],
+		"name": "U",
+		"code": "ST-232"
+	},
+	{
+		"id": 203,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 }
+		],
+		"teachers": ["HANCCO CARPIO, RONY JORDAN"],
+		"mask": [0, 0, 507904],
+		"name": "V",
+		"code": "ST-232"
+	},
+	{
+		"id": 204,
+		"events": [
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 },
+			{ "day": 6, "hour": 18 },
+			{ "day": 6, "hour": 19 },
+			{ "day": 6, "hour": 20 }
+		],
+		"teachers": ["GARCIA LA RIVA JOSE CARLOS"],
+		"mask": [0, 0, 130023424],
+		"name": "W",
+		"code": "ST-232"
+	},
+	{
+		"id": 205,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["SOTELO VILLENA, JUAN CARLOS"],
+		"mask": [0, 0, 15360],
+		"name": "U",
+		"code": "ST-235"
+	},
+	{
+		"id": 206,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["OPORTO DIAZ, SAMUEL ALONSO"],
+		"mask": [0, 0, 15360],
+		"name": "V",
+		"code": "ST-235"
+	},
+	{
+		"id": 207,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["RODRIGUEZ RAFAEL, GLEN DARIO"],
+		"mask": [251658240, 0, 0],
+		"name": "W",
+		"code": "ST-235"
+	},
+	{
+		"id": 208,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["UN JAN LIAU HING, EMILIO ALBERTO"],
+		"mask": [0, 0, 245760],
+		"name": "X",
+		"code": "ST-235"
+	},
+	{
+		"id": 209,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["MORALES CUELLAR, MERY NOEMI"],
+		"mask": [0, 0, 15360],
+		"name": "U",
+		"code": "ST-236"
+	},
+	{
+		"id": 210,
+		"events": [
+			{ "day": 6, "hour": 13 },
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 }
+		],
+		"teachers": ["UN JAN LIAU HING, EMILIO ALBERTO"],
+		"mask": [0, 0, 7864320],
+		"name": "V",
+		"code": "ST-236"
+	},
+	{
+		"id": 211,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["MÉNDEZ VALDIVIA, CELEDONIO"],
+		"mask": [15360, 0, 0],
+		"name": "U",
+		"code": "ST-253"
+	},
+	{
+		"id": 212,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["CALIZAYA NEIRA, PERCY"],
+		"mask": [0, 251658240, 0],
+		"name": "U",
+		"code": "ST-254"
+	},
+	{
+		"id": 213,
+		"events": [
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 }
+		],
+		"teachers": ["CANCHANO CARO, JAVIER TOLENTINO"],
+		"mask": [0, 0, 491520],
+		"name": "U",
+		"code": "ST-255"
+	},
+	{
+		"id": 214,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["GUZMÁN YANGATO, JORGE FERNANDO"],
+		"mask": [251658240, 0, 0],
+		"name": "V",
+		"code": "ST-255"
+	},
+	{
+		"id": 215,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 }
+		],
+		"teachers": ["HIROMOTO HIROMOTO, FELIPE TSUTOMU"],
+		"mask": [251658240, 0, 0],
+		"name": "U",
+		"code": "ST-264"
+	},
+	{
+		"id": 216,
+		"events": [
+			{ "day": 6, "hour": 12 },
+			{ "day": 6, "hour": 13 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["REYNA MONTEVERDE, TINO EDUARDO"],
+		"mask": [0, 50331648, 786432],
+		"name": "V",
+		"code": "ST-264"
+	},
+	{
+		"id": 217,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["VILCAPOMA ESCURRA, EDGAR SOCRÁTES"],
+		"mask": [0, 0, 15360],
+		"name": "U",
+		"code": "ST-265"
+	},
+	{
+		"id": 218,
+		"events": [
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["SÁNCHEZ ESPINOZA, JAVIER CONCEPCIÓN"],
+		"mask": [12288, 12288, 0],
+		"name": "U",
+		"code": "ST-274"
+	},
+	{
+		"id": 219,
+		"events": [
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 },
+			{ "day": 6, "hour": 18 },
+			{ "day": 6, "hour": 19 }
+		],
+		"teachers": ["HUARCAYA JUNES, ALEJANDRINA NELLY"],
+		"mask": [0, 0, 62914560],
+		"name": "U",
+		"code": "ST-275"
+	},
+	{
+		"id": 220,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["ARTEAGA CORTEZ, HUMBERTO URBANO"],
+		"mask": [0, 251658240, 0],
+		"name": "V",
+		"code": "ST-275"
+	},
+	{
+		"id": 221,
+		"events": [
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 },
+			{ "day": 6, "hour": 18 },
+			{ "day": 6, "hour": 19 }
+		],
+		"teachers": ["SIMICH LÓPEZ, VÍCTOR ARTURO"],
+		"mask": [0, 0, 65011712],
+		"name": "U",
+		"code": "ST-285"
+	},
+	{
+		"id": 222,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 },
+			{ "day": 6, "hour": 12 }
+		],
+		"teachers": ["RAMOS MORENO, JAIME IGNACIO"],
+		"mask": [0, 0, 507904],
+		"name": "V",
+		"code": "ST-285"
+	},
+	{
+		"id": 223,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 }
+		],
+		"teachers": ["MORALES CUELLAR, MERY NOEMI"],
+		"mask": [3072, 3072, 0],
+		"name": "U",
+		"code": "ST-295"
+	},
+	{
+		"id": 224,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 }
+		],
+		"teachers": ["LLANOS PANDURO, JORGE DANIEL"],
+		"mask": [15360, 0, 0],
+		"name": "V",
+		"code": "ST-295"
+	},
+	{
+		"id": 225,
+		"events": [
+			{ "day": 6, "hour": 12 },
+			{ "day": 6, "hour": 13 },
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 }
+		],
+		"teachers": ["ZAMORA RAMÍREZ, JOSÉ ALBERTO"],
+		"mask": [0, 0, 3932160],
+		"name": "U",
+		"code": "ST-314"
+	},
+	{
+		"id": 226,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 }
+		],
+		"teachers": ["GALVEZ LEGUA, MAURICIO"],
+		"mask": [960, 0, 0],
+		"name": "V",
+		"code": "ST-314"
+	},
+	{
+		"id": 227,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["RAMOS MONTES, CARLOS"],
+		"mask": [0, 15360, 0],
+		"name": "U",
+		"code": "ST-324"
+	},
+	{
+		"id": 228,
+		"events": [
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["GALVEZ LEGUA, MAURICIO"],
+		"mask": [0, 0, 960],
+		"name": "V",
+		"code": "ST-324"
+	},
+	{
+		"id": 229,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["CARRANZA MILLA, EMERSON"],
+		"mask": [768, 768, 0],
+		"name": "U",
+		"code": "ST-334"
+	},
+	{
+		"id": 230,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["BORJA ROSALES, RUBÉN ARTURO"],
+		"mask": [3145728, 3145728, 0],
+		"name": "V",
+		"code": "ST-334"
+	},
+	{
+		"id": 231,
+		"events": [
+			{ "day": 2, "hour": 20 },
+			{ "day": 2, "hour": 21 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["ROJAS SOLIS, YSABEL"],
+		"mask": [201326592, 201326592, 0],
+		"name": "U",
+		"code": "ST-339"
+	},
+	{
+		"id": 232,
+		"events": [
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["GUZMÁN YANGATO, JORGE FERNANDO"],
+		"mask": [0, 14336, 0],
+		"name": "U",
+		"code": "ST-344"
+	},
+	{
+		"id": 233,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 }
+		],
+		"teachers": ["PORTILLO CAMPBELL, JOSÉ HUGO"],
+		"mask": [62914560, 0, 0],
+		"name": "U",
+		"code": "ST-414"
+	},
+	{
+		"id": 234,
+		"events": [
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["OPORTO DIAZ, SAMUEL ALONSO"],
+		"mask": [0, 0, 960],
+		"name": "V",
+		"code": "ST-414"
+	},
+	{
+		"id": 235,
+		"events": [
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 }
+		],
+		"teachers": ["ZELA MORAYA, WESTER EDISON"],
+		"mask": [0, 0, 15728640],
+		"name": "U",
+		"code": "ST-415"
+	},
+	{
+		"id": 236,
+		"events": [
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["TARAZONA PONTE, SANTIAGO"],
+		"mask": [50331648, 50331648, 0],
+		"name": "U",
+		"code": "TP-103"
+	},
+	{
+		"id": 237,
+		"events": [
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["BENITES YARLEQUÉ, JOSÉ VALERIO"],
+		"mask": [192, 192, 0],
+		"name": "V",
+		"code": "TP-103"
+	},
+	{
+		"id": 238,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["TARAZONA PONTE, SANTIAGO"],
+		"mask": [3072, 201329664, 0],
+		"name": "U",
+		"code": "TP-113"
+	},
+	{
+		"id": 239,
+		"events": [
+			{ "day": 1, "hour": 13 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 13 },
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 }
+		],
+		"teachers": ["BORJA ROSALES, RUBÉN ARTURO"],
+		"mask": [224, 224, 0],
+		"name": "V",
+		"code": "TP-113"
+	},
+	{
+		"id": 240,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["CARRANZA MILLA, EMERSON"],
+		"mask": [3145728, 3145728, 0],
+		"name": "U",
+		"code": "TP-123"
+	},
+	{
+		"id": 241,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["GALVEZ LEGUA, MAURICIO PEDRO"],
+		"mask": [0, 960, 0],
+		"name": "V",
+		"code": "TP-123"
+	},
+	{
+		"id": 242,
+		"events": [
+			{ "day": 2, "hour": 14 },
+			{ "day": 2, "hour": 15 },
+			{ "day": 4, "hour": 14 },
+			{ "day": 4, "hour": 15 }
+		],
+		"teachers": ["CRUZ FIGUEROA, GUILLERMO ROLDÁN"],
+		"mask": [3145728, 3145728, 0],
+		"name": "U",
+		"code": "TP-203"
+	},
+	{
+		"id": 243,
+		"events": [
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 }
+		],
+		"teachers": ["TARAZONA PONTE, SANTIAGO", "MONCADA CAJAVILCA, VÍCTOR JOSÉ"],
+		"mask": [768, 768, 0],
+		"name": "V",
+		"code": "TP-203"
+	},
+	{
+		"id": 244,
+		"events": [
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 5, "hour": 10 }
+		],
+		"teachers": ["PARRA OSORIO, HERNÁN JULIO"],
+		"mask": [7, 0, 7],
+		"name": "U",
+		"code": "TP-213"
+	},
+	{
+		"id": 245,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 2, "hour": 10 },
+			{ "day": 4, "hour": 8 },
+			{ "day": 4, "hour": 9 },
+			{ "day": 4, "hour": 10 }
+		],
+		"teachers": ["CHAFLOQUE ELÍAS, CARLOS ALBERTO"],
+		"mask": [114688, 114688, 0],
+		"name": "V",
+		"code": "TP-213"
+	},
+	{
+		"id": 246,
+		"events": [
+			{ "day": 2, "hour": 8 },
+			{ "day": 2, "hour": 9 },
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 3, "hour": 10 }
+		],
+		"teachers": ["PARRA OSORIO, HERNÁN JULIO"],
+		"mask": [49152, 7, 0],
+		"name": "U",
+		"code": "TP-223"
+	},
+	{
+		"id": 247,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 5, "hour": 10 }
+		],
+		"teachers": ["RONDINEL PINEDA, PETRA ELINE"],
+		"mask": [0, 3, 7],
+		"name": "V",
+		"code": "TP-223"
+	},
+	{
+		"id": 248,
+		"events": [
+			{ "day": 3, "hour": 10 },
+			{ "day": 3, "hour": 11 },
+			{ "day": 5, "hour": 8 },
+			{ "day": 5, "hour": 9 },
+			{ "day": 5, "hour": 10 }
+		],
+		"teachers": ["OSORIO MARUJO, BILMA"],
+		"mask": [0, 12, 7],
+		"name": "W",
+		"code": "TP-223"
+	},
+	{
+		"id": 249,
+		"events": [
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["MUÑOZ INGA, CARLOS"],
+		"mask": [12288, 12288, 0],
+		"name": "U",
+		"code": "TP-224"
+	},
+	{
+		"id": 250,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["CRUZ FIGUEROA, GUILLERMO ROLDÁN"],
+		"mask": [0, 960, 0],
+		"name": "V",
+		"code": "TP-224"
+	},
+	{
+		"id": 251,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["HUAMÁN URETA, PEÑAFORT LUIS"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "TP-244"
+	},
+	{
+		"id": 252,
+		"events": [
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["AGÜERO MAURICIO, ALFREDO ROLANDO"],
+		"mask": [0, 768, 768],
+		"name": "V",
+		"code": "TP-244"
+	},
+	{
+		"id": 253,
+		"events": [
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 },
+			{ "day": 4, "hour": 21 }
+		],
+		"teachers": ["MUÑOZ INGA, CARLOS"],
+		"mask": [0, 251658240, 0],
+		"name": "U",
+		"code": "TP-254"
+	},
+	{
+		"id": 254,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 }
+		],
+		"teachers": ["ZÚÑIGA MERCADO, ANTONIO"],
+		"mask": [3840, 0, 0],
+		"name": "V",
+		"code": "TP-254"
+	},
+	{
+		"id": 255,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 2, "hour": 18 },
+			{ "day": 2, "hour": 19 }
+		],
+		"teachers": ["ZÚÑIGA MERCADO, ANTONIO"],
+		"mask": [62914560, 0, 0],
+		"name": "W",
+		"code": "TP-254"
+	},
+	{
+		"id": 256,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 5, "hour": 15 },
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 }
+		],
+		"teachers": ["CALLO MOSCOSO, LUIS ALBERTO"],
+		"mask": [192, 0, 50048],
+		"name": "U",
+		"code": "TP-301"
+	},
+	{
+		"id": 257,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 5, "hour": 13 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": ["MONZÓN FERNÁNDEZ, JORGE FELIPE"],
+		"mask": [960, 0, 224],
+		"name": "V",
+		"code": "TP-301"
+	},
+	{
+		"id": 258,
+		"events": [
+			{ "day": 1, "hour": 12 },
+			{ "day": 1, "hour": 13 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 5, "hour": 13 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": ["MONCADA CAJAVILCA, VÍCTOR JOSÉ"],
+		"mask": [240, 0, 224],
+		"name": "W",
+		"code": "TP-301"
+	},
+	{
+		"id": 259,
+		"events": [
+			{ "day": 3, "hour": 8 },
+			{ "day": 3, "hour": 9 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 1, "hour": 8 },
+			{ "day": 1, "hour": 9 },
+			{ "day": 1, "hour": 10 }
+		],
+		"teachers": ["MONZÓN FERNÁNDEZ, JORGE FELIPE"],
+		"mask": [199, 3, 0],
+		"name": "X",
+		"code": "TP-301"
+	},
+	{
+		"id": 260,
+		"events": [
+			{ "day": 5, "hour": 16 },
+			{ "day": 5, "hour": 17 },
+			{ "day": 1, "hour": 14 },
+			{ "day": 1, "hour": 15 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["MONCADA CAJAVILCA, VÍCTOR JOSÉ"],
+		"mask": [192, 896, 768],
+		"name": "Y",
+		"code": "TP-301"
+	},
+	{
+		"id": 261,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["CIEZA DE LEÓN TUESTA, EDUARDO JOSÉ"],
+		"mask": [0, 0, 245760],
+		"name": "U",
+		"code": "TP-302"
+	},
+	{
+		"id": 262,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 }
+		],
+		"teachers": ["MUÑOZ INGA, CARLOS"],
+		"mask": [3072, 3072, 0],
+		"name": "V",
+		"code": "TP-302"
+	},
+	{
+		"id": 263,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["CALLO MOSCOSO, LUIS ALBERTO"],
+		"mask": [0, 0, 199680],
+		"name": "W",
+		"code": "TP-302"
+	},
+	{
+		"id": 264,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["CRUZ FIGUEROA, GUILLERMO ROLDÁN"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "TP-303"
+	},
+	{
+		"id": 265,
+		"events": [
+			{ "day": 3, "hour": 14 },
+			{ "day": 3, "hour": 15 },
+			{ "day": 5, "hour": 14 },
+			{ "day": 5, "hour": 15 }
+		],
+		"teachers": ["AGÜERO MAURICIO, ALFREDO ROLANDO"],
+		"mask": [0, 192, 192],
+		"name": "V",
+		"code": "TP-303"
+	},
+	{
+		"id": 266,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["AGÜERO MAURICIO, ALFREDO ROLANDO"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "TP-304"
+	},
+	{
+		"id": 267,
+		"events": [
+			{ "day": 6, "hour": 14 },
+			{ "day": 6, "hour": 15 },
+			{ "day": 6, "hour": 16 },
+			{ "day": 6, "hour": 17 }
+		],
+		"teachers": ["CALLO MOSCOSO, LUIS ALBERTO"],
+		"mask": [0, 0, 15728640],
+		"name": "V",
+		"code": "TP-304"
+	},
+	{
+		"id": 268,
+		"events": [
+			{ "day": 1, "hour": 18 },
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 },
+			{ "day": 4, "hour": 20 }
+		],
+		"teachers": ["HUAMÁN URETA, PEÑAFORT LUIS"],
+		"mask": [7168, 117440512, 0],
+		"name": "U",
+		"code": "TP-314"
+	},
+	{
+		"id": 269,
+		"events": [
+			{ "day": 1, "hour": 19 },
+			{ "day": 1, "hour": 20 },
+			{ "day": 1, "hour": 21 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 3, "hour": 20 },
+			{ "day": 3, "hour": 21 }
+		],
+		"teachers": ["CIEZA DE LEÓN TUESTA, EDUARDO JOSÉ"],
+		"mask": [14336, 14336, 0],
+		"name": "V",
+		"code": "TP-314"
+	},
+	{
+		"id": 270,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["KRAJNIK STULIN, FRANCO LUIANO"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "TP-324"
+	},
+	{
+		"id": 271,
+		"events": [
+			{ "day": 6, "hour": 8 },
+			{ "day": 6, "hour": 9 },
+			{ "day": 6, "hour": 10 },
+			{ "day": 6, "hour": 11 }
+		],
+		"teachers": ["ANCO BONIFAZ, HERLINDA IRMA"],
+		"mask": [0, 0, 245760],
+		"name": "U",
+		"code": "TP-404"
+	},
+	{
+		"id": 272,
+		"events": [
+			{ "day": 5, "hour": 18 },
+			{ "day": 5, "hour": 19 },
+			{ "day": 5, "hour": 20 },
+			{ "day": 5, "hour": 21 }
+		],
+		"teachers": ["ANCO BONIFAZ, HERLINDA IRMA"],
+		"mask": [0, 0, 15360],
+		"name": "V",
+		"code": "TP-404"
+	},
+	{
+		"id": 273,
+		"events": [{ "day": 6, "hour": 14 }, { "day": 6, "hour": 15 }],
+		"teachers": ["ANCO BONIFAZ, HERLINDA IRMA"],
+		"mask": [0, 0, 3145728],
+		"name": "U",
+		"code": "TP-414"
+	},
+	{
+		"id": 274,
+		"events": [
+			{ "day": 1, "hour": 12 },
+			{ "day": 1, "hour": 13 },
+			{ "day": 3, "hour": 12 },
+			{ "day": 3, "hour": 13 }
+		],
+		"teachers": ["LAU CARRILLO, CARMEN IVONNE"],
+		"mask": [48, 48, 0],
+		"name": "U",
+		"code": "TP-503"
+	},
+	{
+		"id": 275,
+		"events": [
+			{ "day": 1, "hour": 16 },
+			{ "day": 1, "hour": 17 },
+			{ "day": 3, "hour": 16 },
+			{ "day": 3, "hour": 17 }
+		],
+		"teachers": ["ACUÑA PINAUD, LEONCIO LUIS"],
+		"mask": [768, 768, 0],
+		"name": "V",
+		"code": "TP-503"
+	},
+	{
+		"id": 276,
+		"events": [
+			{ "day": 2, "hour": 16 },
+			{ "day": 2, "hour": 17 },
+			{ "day": 4, "hour": 16 },
+			{ "day": 4, "hour": 17 }
+		],
+		"teachers": ["EGÚZQUIZA FIGUEROA, MARÍA ENERINA"],
+		"mask": [12582912, 12582912, 0],
+		"name": "U",
+		"code": "TP-505"
+	},
+	{
+		"id": 277,
+		"events": [
+			{ "day": 3, "hour": 18 },
+			{ "day": 3, "hour": 19 },
+			{ "day": 4, "hour": 18 },
+			{ "day": 4, "hour": 19 }
+		],
+		"teachers": ["KRAJNIK STULIN, FRANCO LUIANO"],
+		"mask": [0, 50334720, 0],
+		"name": "V",
+		"code": "TP-505"
+	}
+]

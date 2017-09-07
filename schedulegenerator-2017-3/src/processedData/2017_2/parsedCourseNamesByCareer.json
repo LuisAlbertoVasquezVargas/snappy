@@ -1,0 +1,1378 @@
+[
+  [
+    [
+      {
+        "code": "GP-114",
+        "name": "Diseño y Disposición de Planta",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "E",
+        "id": 22
+      },
+      {
+        "code": "GP-134",
+        "name": "Modelos de Gestión Empresarial",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "E",
+        "id": 26
+      },
+      {
+        "code": "GP-205",
+        "name": "Gestión de Mantenimiento",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "E",
+        "id": 31
+      },
+      {
+        "code": "GP-244",
+        "name": "Sistemas de Costos",
+        "credits": 2,
+        "evaluationSystem": "G",
+        "i1Type": "E",
+        "id": 36
+      },
+      {
+        "code": "GP-245",
+        "name": "Financiamiento Corporativo",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 37
+      },
+      {
+        "code": "GP-324",
+        "name": "Gestión Logística y de Operaciones",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 41
+      },
+      {
+        "code": "GP-514",
+        "name": "Comercio Internacional",
+        "credits": 3,
+        "evaluationSystem": "E",
+        "i1Type": "E",
+        "id": 45
+      },
+      {
+        "code": "HS-102",
+        "name": "Ideologías Contemporáneas",
+        "credits": 4,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 55
+      },
+      {
+        "code": "HS-144",
+        "name": "Comportamiento Organizacional",
+        "credits": 2,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 60
+      },
+      {
+        "code": "HS-151",
+        "name": "Literatura",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i1Type": "E",
+        "id": 61
+      },
+      {
+        "code": "ST-114",
+        "name": "Teoría de Decisiones",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 73
+      },
+      {
+        "code": "ST-124",
+        "name": "Simulación",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 75
+      },
+      {
+        "code": "ST-231",
+        "name": "Taller de Herramientas Software I",
+        "credits": 1,
+        "evaluationSystem": "D",
+        "i1Type": null,
+        "id": 87
+      },
+      {
+        "code": "ST-255",
+        "name": "Gestión de Proyectos Informáticos",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i1Type": "E",
+        "id": 97
+      },
+      {
+        "code": "ST-264",
+        "name": "Administración de Tecnologías de la Información",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 98
+      },
+      {
+        "code": "ST-274",
+        "name": "Base de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 100
+      },
+      {
+        "code": "ST-275",
+        "name": "Auditoria de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 101
+      },
+      {
+        "code": "ST-295",
+        "name": "Ingeniería Empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 103
+      },
+      {
+        "code": "ST-339",
+        "name": "Comercio Electrónico",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "E",
+        "id": 108
+      },
+      {
+        "code": "TP-324",
+        "name": "Ergonomía",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "E",
+        "id": 129
+      },
+      {
+        "code": "TP-414",
+        "name": "Introducción a la Ingeniería Ambiental",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i1Type": "E",
+        "id": 131
+      }
+    ],
+    [
+      {
+        "code": "CB-101",
+        "name": "Geometría Analítica",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 0
+      },
+      {
+        "code": "CB-121",
+        "name": "Cálculo Diferencial",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 3
+      },
+      {
+        "code": "CB-211",
+        "name": "Química Básica",
+        "credits": 4,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 10
+      },
+      {
+        "code": "GP-101",
+        "name": "Introducción a la Ingeniería Industrial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 18
+      },
+      {
+        "code": "HS-101",
+        "name": "Desarrollo Personal",
+        "credits": 2,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 54
+      },
+      {
+        "code": "HS-111",
+        "name": "Técnicas de Comunicación",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 56
+      },
+      {
+        "code": "TP-301",
+        "name": "Dibujo en Ingeniería",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 123
+      }
+    ],
+    [
+      {
+        "code": "CB-111",
+        "name": "Álgebra Lineal",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 1
+      },
+      {
+        "code": "CB-131",
+        "name": "Cálculo Integral",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 5
+      },
+      {
+        "code": "CB-221",
+        "name": "Química Industrial I",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 11
+      },
+      {
+        "code": "HS-121",
+        "name": "Metodología de la Investigación Científica",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 57
+      },
+      {
+        "code": "HS-141",
+        "name": "Filosofía y Ética",
+        "credits": 2,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 59
+      },
+      {
+        "code": "ST-111",
+        "name": "Teoría de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 71
+      },
+      {
+        "code": "ST-221",
+        "name": "Algoritmos y Estructura de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 84
+      }
+    ],
+    [
+      {
+        "code": "CB-112",
+        "name": "Matemática Discreta",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 2
+      },
+      {
+        "code": "CB-132",
+        "name": "Cálculo Multivariable",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 6
+      },
+      {
+        "code": "CB-222",
+        "name": "Química Industrial II",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 12
+      },
+      {
+        "code": "CB-302",
+        "name": "Física I",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 13
+      },
+      {
+        "code": "CB-402",
+        "name": "Estadística y Probabilidades",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 16
+      },
+      {
+        "code": "HS-131",
+        "name": "Sociología",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i1Type": "O",
+        "id": 58
+      },
+      {
+        "code": "HS-201",
+        "name": "Constitución y Derechos Humanos",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i1Type": "O",
+        "id": 63
+      }
+    ],
+    [
+      {
+        "code": "CB-142",
+        "name": "Ecuaciones Diferenciales",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 7
+      },
+      {
+        "code": "CB-312",
+        "name": "Física II",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 14
+      },
+      {
+        "code": "GP-112",
+        "name": "Diseño del Trabajo I",
+        "credits": 4,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 20
+      },
+      {
+        "code": "GP-202",
+        "name": "Microeconomía",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 29
+      },
+      {
+        "code": "ST-222",
+        "name": "Lenguajes de Programación",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 85
+      },
+      {
+        "code": "TP-302",
+        "name": "Diseño Asistido por Computadora",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 124
+      }
+    ],
+    [
+      {
+        "code": "GP-123",
+        "name": "Administración y Organización",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 24
+      },
+      {
+        "code": "GP-203",
+        "name": "Macroeconomía",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 30
+      },
+      {
+        "code": "GP-223",
+        "name": "Contabilidad Financiera",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 32
+      },
+      {
+        "code": "ST-113",
+        "name": "Investigación de Operaciones I",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 72
+      },
+      {
+        "code": "TP-103",
+        "name": "Electricidad y Electrónica Industrial",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 112
+      },
+      {
+        "code": "TP-203",
+        "name": "Maquinaria e Instrumentación Industrial",
+        "credits": 2,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 115
+      },
+      {
+        "code": "TP-213",
+        "name": "Físico Química y Operaciones Unitarias",
+        "credits": 4,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 116
+      }
+    ],
+    [
+      {
+        "code": "GP-113",
+        "name": "Diseño del Trabajo II",
+        "credits": 4,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 21
+      },
+      {
+        "code": "GP-133",
+        "name": "Desarrollo Organizacional",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 25
+      },
+      {
+        "code": "GP-233",
+        "name": "Contabilidad de Costos y Presupuestos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 33
+      },
+      {
+        "code": "ST-123",
+        "name": "Investigación de Operaciones II",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 74
+      },
+      {
+        "code": "TP-223",
+        "name": "Procesos Industriales I",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 117
+      },
+      {
+        "code": "TP-303",
+        "name": "Ingeniería de Materiales",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 125
+      },
+      {
+        "code": "TP-503",
+        "name": "Control Estadístico de Procesos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 132
+      }
+    ],
+    [
+      {
+        "code": "GP-122",
+        "name": "Creatividad Empresarial",
+        "credits": 1,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 23
+      },
+      {
+        "code": "GP-234",
+        "name": "Análisis Económico en Ingeniería",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 34
+      },
+      {
+        "code": "GP-304",
+        "name": "Logística empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 39
+      },
+      {
+        "code": "TP-224",
+        "name": "Procesos Industriales II",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 118
+      },
+      {
+        "code": "TP-244",
+        "name": "Análisis de Manufactura",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 119
+      },
+      {
+        "code": "TP-304",
+        "name": "Diseño en Ingeniería",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i1Type": "O",
+        "id": 126
+      },
+      {
+        "code": "TP-404",
+        "name": "Higiene y Seguridad Industrial",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 130
+      }
+    ],
+    [
+      {
+        "code": "GP-314",
+        "name": "Mercadotecnia",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 40
+      },
+      {
+        "code": "GP-404",
+        "name": "Planeamiento y Control de la Producción",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 44
+      },
+      {
+        "code": "HS-204",
+        "name": "Legislación Empresarial",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i1Type": "O",
+        "id": 64
+      },
+      {
+        "code": "TP-254",
+        "name": "Automatización y Control de Procesos",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 120
+      },
+      {
+        "code": "TP-314",
+        "name": "Ingeniería del Producto",
+        "credits": 4,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 128
+      }
+    ],
+    [
+      {
+        "code": "GP-154",
+        "name": "Administración de Recursos Humanos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 27
+      },
+      {
+        "code": "GP-235",
+        "name": "Gestión Financiera",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 35
+      },
+      {
+        "code": "GP-515",
+        "name": "Planeamiento y Dirección Estratégica",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 46
+      },
+      {
+        "code": "GP-535",
+        "name": "Proyecto de Tesis en Ing. Industrial I",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 48
+      },
+      {
+        "code": "GP-555",
+        "name": "Gestión de Negocios I",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i1Type": "O",
+        "id": 50
+      },
+      {
+        "code": "TP-505",
+        "name": "Gestión y Aseguramiento de Calidad Total",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 133
+      }
+    ],
+    [
+      {
+        "code": "GP-525",
+        "name": "Diseño y Evaluación de Proyectos",
+        "credits": 4,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 47
+      },
+      {
+        "code": "GP-545",
+        "name": "Proyecto de Tesis en Ing. Industrial II",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i1Type": "O",
+        "id": 49
+      },
+      {
+        "code": "GP-575",
+        "name": "Diagnóstico Empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i1Type": "O",
+        "id": 52
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "code": "GP-134",
+        "name": "Modelos de Gestión Empresarial",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": null,
+        "id": 26
+      },
+      {
+        "code": "GP-154",
+        "name": "Administración de Recursos Humanos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "E",
+        "id": 27
+      },
+      {
+        "code": "GP-234",
+        "name": "Análisis Económico en Ingeniería",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "E",
+        "id": 34
+      },
+      {
+        "code": "GP-244",
+        "name": "Sistemas de Costos",
+        "credits": 2,
+        "evaluationSystem": "G",
+        "i2Type": null,
+        "id": 36
+      },
+      {
+        "code": "GP-245",
+        "name": "Financiamiento Corporativo",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": null,
+        "id": 37
+      },
+      {
+        "code": "GP-514",
+        "name": "Comercio Internacional",
+        "credits": 3,
+        "evaluationSystem": "E",
+        "i2Type": null,
+        "id": 45
+      },
+      {
+        "code": "GP-555",
+        "name": "Gestión de Negocios I",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "E",
+        "id": 50
+      },
+      {
+        "code": "GP-575",
+        "name": "Diagnóstico Empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 52
+      },
+      {
+        "code": "HS-102",
+        "name": "Ideologías Contemporáneas",
+        "credits": 4,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 55
+      },
+      {
+        "code": "HS-144",
+        "name": "Comportamiento Organizacional",
+        "credits": 2,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 60
+      },
+      {
+        "code": "HS-151",
+        "name": "Literatura",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i2Type": "E",
+        "id": 61
+      },
+      {
+        "code": "ST-114",
+        "name": "Teoría de Decisiones",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 73
+      },
+      {
+        "code": "ST-224",
+        "name": "Sistemas Económicos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 86
+      },
+      {
+        "code": "ST-231",
+        "name": "Taller de Herramientas Software I",
+        "credits": 1,
+        "evaluationSystem": "D",
+        "i2Type": "E",
+        "id": 87
+      },
+      {
+        "code": "ST-253",
+        "name": "Técnicas de Documentación y Archivo",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 95
+      },
+      {
+        "code": "ST-254",
+        "name": "Administración de la Calidad de Software",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 96
+      },
+      {
+        "code": "ST-264",
+        "name": "Administración de Tecnologías de la Información",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "E",
+        "id": 98
+      },
+      {
+        "code": "ST-265",
+        "name": "Administración del Conocimiento",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i2Type": "E",
+        "id": 99
+      },
+      {
+        "code": "ST-344",
+        "name": "Sistemas Humanos",
+        "credits": 2,
+        "evaluationSystem": "G",
+        "i2Type": "E",
+        "id": 109
+      },
+      {
+        "code": "ST-415",
+        "name": "Inteligencia Artificial Avanzada",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "E",
+        "id": 111
+      },
+      {
+        "code": "TP-254",
+        "name": "Automatización y Control de Procesos",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i2Type": "E",
+        "id": 120
+      }
+    ],
+    [
+      {
+        "code": "CB-101",
+        "name": "Geometría Analítica",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 0
+      },
+      {
+        "code": "CB-121",
+        "name": "Cálculo Diferencial",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 3
+      },
+      {
+        "code": "CB-201",
+        "name": "Química General",
+        "credits": 4,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 9
+      },
+      {
+        "code": "HS-101",
+        "name": "Desarrollo Personal",
+        "credits": 2,
+        "evaluationSystem": "I",
+        "i2Type": "O",
+        "id": 54
+      },
+      {
+        "code": "HS-111",
+        "name": "Técnicas de Comunicación",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i2Type": "O",
+        "id": 56
+      },
+      {
+        "code": "ST-101",
+        "name": "Introducción a la Ingeniería de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 69
+      },
+      {
+        "code": "TP-301",
+        "name": "Dibujo en Ingeniería",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 123
+      }
+    ],
+    [
+      {
+        "code": "CB-111",
+        "name": "Álgebra Lineal",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 1
+      },
+      {
+        "code": "CB-131",
+        "name": "Cálculo Integral",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 5
+      },
+      {
+        "code": "HS-121",
+        "name": "Metodología de la Investigación Científica",
+        "credits": 3,
+        "evaluationSystem": "I",
+        "i2Type": "O",
+        "id": 57
+      },
+      {
+        "code": "HS-141",
+        "name": "Filosofía y Ética",
+        "credits": 2,
+        "evaluationSystem": "I",
+        "i2Type": "O",
+        "id": 59
+      },
+      {
+        "code": "HS-201",
+        "name": "Constitución y Derechos Humanos",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i2Type": "O",
+        "id": 63
+      },
+      {
+        "code": "ST-103",
+        "name": "Teoría General de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 70
+      },
+      {
+        "code": "ST-221",
+        "name": "Algoritmos y Estructura de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 84
+      }
+    ],
+    [
+      {
+        "code": "CB-112",
+        "name": "Matemática Discreta",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 2
+      },
+      {
+        "code": "CB-132",
+        "name": "Cálculo Multivariable",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 6
+      },
+      {
+        "code": "CB-302",
+        "name": "Física I",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 13
+      },
+      {
+        "code": "CB-402",
+        "name": "Estadística y Probabilidades",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 16
+      },
+      {
+        "code": "HS-131",
+        "name": "Sociología",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i2Type": "O",
+        "id": 58
+      },
+      {
+        "code": "ST-202",
+        "name": "Lenguajes de Programación Estructurado",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 77
+      }
+    ],
+    [
+      {
+        "code": "CB-122",
+        "name": "Cálculo Numérico",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 4
+      },
+      {
+        "code": "CB-142",
+        "name": "Ecuaciones Diferenciales",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 7
+      },
+      {
+        "code": "CB-312",
+        "name": "Física II",
+        "credits": 5,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 14
+      },
+      {
+        "code": "CB-412",
+        "name": "Estadística Aplicada",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 17
+      },
+      {
+        "code": "GP-202",
+        "name": "Microeconomía",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 29
+      },
+      {
+        "code": "ST-232",
+        "name": "Lenguajes de Programación Orientado a Objetos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 88
+      }
+    ],
+    [
+      {
+        "code": "CB-143",
+        "name": "Matemática Aplicada",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 8
+      },
+      {
+        "code": "CB-313",
+        "name": "Física Moderna",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 15
+      },
+      {
+        "code": "GP-102",
+        "name": "Organización y Métodos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 19
+      },
+      {
+        "code": "GP-203",
+        "name": "Macroeconomía",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 30
+      },
+      {
+        "code": "ST-113",
+        "name": "Investigación de Operaciones I",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 72
+      },
+      {
+        "code": "ST-203",
+        "name": "Modelamiento de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 78
+      },
+      {
+        "code": "TP-113",
+        "name": "Sistemas Eléctricos y Electrónicos",
+        "credits": 4,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 113
+      }
+    ],
+    [
+      {
+        "code": "GP-223",
+        "name": "Contabilidad Financiera",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 32
+      },
+      {
+        "code": "GP-403",
+        "name": "Sistemas Productivos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 43
+      },
+      {
+        "code": "ST-123",
+        "name": "Investigación de Operaciones II",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 74
+      },
+      {
+        "code": "ST-133",
+        "name": "Dinámica de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 76
+      },
+      {
+        "code": "ST-213",
+        "name": "Análisis y Diseño de Sistemas",
+        "credits": 5,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 81
+      },
+      {
+        "code": "TP-123",
+        "name": "Sistemas Digitales",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 114
+      }
+    ],
+    [
+      {
+        "code": "GP-122",
+        "name": "Creatividad Empresarial",
+        "credits": 1,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 23
+      },
+      {
+        "code": "GP-233",
+        "name": "Contabilidad de Costos y Presupuestos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 33
+      },
+      {
+        "code": "ST-124",
+        "name": "Simulación",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 75
+      },
+      {
+        "code": "ST-204",
+        "name": "Taller de Ingeniería de Software I",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 79
+      },
+      {
+        "code": "ST-214",
+        "name": "Administración de Base de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 82
+      },
+      {
+        "code": "ST-314",
+        "name": "Arquitectura del Computador",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 105
+      },
+      {
+        "code": "ST-324",
+        "name": "Sistemas Operativos",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 106
+      }
+    ],
+    [
+      {
+        "code": "GP-235",
+        "name": "Gestión Financiera",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 35
+      },
+      {
+        "code": "GP-304",
+        "name": "Logística empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 39
+      },
+      {
+        "code": "GP-314",
+        "name": "Mercadotecnia",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 40
+      },
+      {
+        "code": "HS-204",
+        "name": "Legislación Empresarial",
+        "credits": 2,
+        "evaluationSystem": "B",
+        "i2Type": "O",
+        "id": 64
+      },
+      {
+        "code": "ST-334",
+        "name": "Sistemas de Comunicación de Datos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 107
+      },
+      {
+        "code": "ST-414",
+        "name": "Inteligencia Artificial",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 110
+      }
+    ],
+    [
+      {
+        "code": "GP-515",
+        "name": "Planeamiento y Dirección Estratégica",
+        "credits": 3,
+        "evaluationSystem": "G",
+        "i2Type": "O",
+        "id": 46
+      },
+      {
+        "code": "GP-525",
+        "name": "Diseño y Evaluación de Proyectos",
+        "credits": 4,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 47
+      },
+      {
+        "code": "ST-205",
+        "name": "Tópicos de Ingeniería de Sistemas",
+        "credits": 2,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 80
+      },
+      {
+        "code": "ST-215",
+        "name": "Seguridad Informática",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 83
+      },
+      {
+        "code": "ST-235",
+        "name": "Proyecto de Tesis en Ing. De Sistemas I",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 90
+      }
+    ],
+    [
+      {
+        "code": "ST-236",
+        "name": "Proyecto de Tesis en Ing. De Sistemas II",
+        "credits": 2,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 91
+      },
+      {
+        "code": "ST-255",
+        "name": "Gestión de Proyectos Informáticos",
+        "credits": 3,
+        "evaluationSystem": "D",
+        "i2Type": "O",
+        "id": 97
+      },
+      {
+        "code": "ST-275",
+        "name": "Auditoria de Sistemas",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 101
+      },
+      {
+        "code": "ST-285",
+        "name": "Aplicación de Negocios Electrónicos",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 102
+      },
+      {
+        "code": "ST-295",
+        "name": "Ingeniería Empresarial",
+        "credits": 3,
+        "evaluationSystem": "F",
+        "i2Type": "O",
+        "id": 103
+      }
+    ]
+  ]
+]
